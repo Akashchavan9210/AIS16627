@@ -1,6 +1,6 @@
 # AIS16627
 
-## Day 1-
+
 Task 1:
 
 1. Anaconda Software Dounloading & installing
@@ -11,7 +11,7 @@ Task 1:
  
  mutable data type -1) Set. 2)List. 3)Dictionary
 
-## Day 2-
+
  Task2:
  1. If Condition
  2. If else condition
@@ -19,7 +19,7 @@ Task 1:
  4. For loop
  5. While loop
 
-## Day 3-
+
  Task3:
 
  Control Statment:
@@ -31,12 +31,12 @@ Statistical Usar Difine Functions
 
 Logical User Difine Functions
 
-## Day 4-
+
 Task 4:
 
 Creating Numpy Tutorial & Numpy Random
 
-## Day 5-
+
 Task 5:
 
 Series : create and operation 
@@ -57,12 +57,12 @@ Missing value
 2. Missing value drop by row and by col
 3. Missing value fill (mean ,median )
 
-## Day 6-
+
 Task 6:
 
 Data Visualisation: Scatur Plot, Bar Plot, Joint Bar Plot, Pie Chart, Line Plot, Histogram, Subplots in matplotlib & Seborn library
 
-## Day 7-
+
 Task 7:
 
 Solving Exercise
@@ -71,9 +71,17 @@ Solving Exercise
   2. numpy.
   3. SF Salaries.
 
-## day 8-
+
 Task 8:
 
+   Case Study 1
+
+   1) Read Data & import necessary libraries.
+   2) Data preprocessing.
+   3) Visualisation.
+   4) Model building.
+   5) Model evaluation.
+   6) Comparison.
 
 
 
