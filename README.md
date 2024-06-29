@@ -83,7 +83,13 @@ Task 8:
    5) Model evaluation.
    6) Comparison.
 
+Task 9:
 
+   Power Bi Dashboard : Creat Dashboard using water quality prediction data.
+
+Task 10:
+
+   Project: Water Quality Prediction 
 
 
 
